@@ -11,7 +11,7 @@ My preferred method of writing essays is to just sit down and write. When I can 
 
 [Where is the rest of this paper in the preview?]
 
-(www.imanaggie.com)
+[Aggies are the best](www.imanaggie.com)
 
 - Write
 - Have food ready
